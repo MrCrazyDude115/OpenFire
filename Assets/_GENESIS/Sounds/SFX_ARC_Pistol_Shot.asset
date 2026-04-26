@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8025963406041727708
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Pistol_Shot_03_{-8025963406041727708}
+  m_AudioClip: {fileID: 8300000, guid: 621cceaa932fc8143887f48cab53991d, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3821274001000684111
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Pistol_Shot_04_{-3821274001000684111}
+  m_AudioClip: {fileID: 8300000, guid: 7abc535dea4fc07459a1871ad56d8b06, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3049858797786113794
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Pistol_Shot_02_{-3049858797786113794}
+  m_AudioClip: {fileID: 8300000, guid: e90ddbac45de9214c9b79354344b98cd, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1820248382077764082
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Pistol_Shot_01_{1820248382077764082}
+  m_AudioClip: {fileID: 8300000, guid: a50708ef062a7eb48ac814239812b7c0, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4970833244833948800
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Pistol_Shot_05_{4970833244833948800}
+  m_AudioClip: {fileID: 8300000, guid: ea08aedea4d8cd6468cb01e94549de63, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_ARC_Pistol_Shot
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 1820248382077764082}
+  - {fileID: -3049858797786113794}
+  - {fileID: -8025963406041727708}
+  - {fileID: -3821274001000684111}
+  - {fileID: 4970833244833948800}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0

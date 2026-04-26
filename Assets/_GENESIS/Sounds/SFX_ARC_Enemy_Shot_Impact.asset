@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8987780757276195226
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Shot_Impact_05_{-8987780757276195226}
+  m_AudioClip: {fileID: 8300000, guid: 1514980b085d00a459ae46290023cd05, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-8895050471818289352
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Shot_Impact_06_{-8895050471818289352}
+  m_AudioClip: {fileID: 8300000, guid: 392ab5df595e5c24885aa380df1fd236, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-7628136772493255346
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Shot_Impact_02_{-7628136772493255346}
+  m_AudioClip: {fileID: 8300000, guid: ae19ab8c22adf22469fd6a45e96adcc6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-5477682530135327384
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Shot_Impact_07_{-5477682530135327384}
+  m_AudioClip: {fileID: 8300000, guid: ba2c3a701fe6c604f8890e4ba4fdc695, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4857015116828546244
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Shot_Impact_10_{-4857015116828546244}
+  m_AudioClip: {fileID: 8300000, guid: b2d00cefc77bced4484618efabce1a93, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-369128830745444303
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Shot_Impact_08_{-369128830745444303}
+  m_AudioClip: {fileID: 8300000, guid: c37a9092d1442fd48841771f4c53a66c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-348833995653190606
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Shot_Impact_01_{-348833995653190606}
+  m_AudioClip: {fileID: 8300000, guid: 1c76a90f9242a87469a71764e2481ba4, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &3064762023259319735
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Shot_Impact_04_{3064762023259319735}
+  m_AudioClip: {fileID: 8300000, guid: b89680efe9ad3d049b596f1e634c834f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4563509915317708175
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Shot_Impact_03_{4563509915317708175}
+  m_AudioClip: {fileID: 8300000, guid: 928d3521d7aeeef4384ba82bbc1f6796, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_ARC_Enemy_Shot_Impact
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -348833995653190606}
+  - {fileID: -7628136772493255346}
+  - {fileID: 4563509915317708175}
+  - {fileID: 3064762023259319735}
+  - {fileID: -8987780757276195226}
+  - {fileID: -8895050471818289352}
+  - {fileID: -5477682530135327384}
+  - {fileID: -369128830745444303}
+  - {fileID: 7604710757123751910}
+  - {fileID: -4857015116828546244}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &7604710757123751910
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Shot_Impact_09_{7604710757123751910}
+  m_AudioClip: {fileID: 8300000, guid: 3470c0d0d258c764aa085ddbed5baa89, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

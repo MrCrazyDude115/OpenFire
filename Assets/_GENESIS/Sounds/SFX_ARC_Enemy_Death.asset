@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-7647661798310132242
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Death_06_{-7647661798310132242}
+  m_AudioClip: {fileID: 8300000, guid: 3c3b0baf425ac7d4fa4144356f823c87, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-7085394218716227874
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Death_02_{-7085394218716227874}
+  m_AudioClip: {fileID: 8300000, guid: 9b951161ae67d6543ba809afe1c1533f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-6591880158982488337
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Death_01_{-6591880158982488337}
+  m_AudioClip: {fileID: 8300000, guid: 8f11c81749f18ba4f89799c068d00d32, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-5179577468113825446
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Death_05_{-5179577468113825446}
+  m_AudioClip: {fileID: 8300000, guid: b7039bdfcf4212a4295cf9ef4a3a7843, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4014032990778956926
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Death_10_{-4014032990778956926}
+  m_AudioClip: {fileID: 8300000, guid: a71c14ab01ad67d4186eced33c13c6c1, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2329889368383311544
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Death_09_{-2329889368383311544}
+  m_AudioClip: {fileID: 8300000, guid: 7c69cf7b57c43ca45a30549d128a1b82, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4593577373943254464
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Death_07_{4593577373943254464}
+  m_AudioClip: {fileID: 8300000, guid: 20a9c8680c1295343b63f247f7b4757c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_ARC_Enemy_Death
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -6591880158982488337}
+  - {fileID: -7085394218716227874}
+  - {fileID: 9133419754324024626}
+  - {fileID: 6991112000413401825}
+  - {fileID: -5179577468113825446}
+  - {fileID: -7647661798310132242}
+  - {fileID: 4593577373943254464}
+  - {fileID: 8730101642486233578}
+  - {fileID: -2329889368383311544}
+  - {fileID: -4014032990778956926}
+  m_AvoidRepeatingLast: 6
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6991112000413401825
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Death_04_{6991112000413401825}
+  m_AudioClip: {fileID: 8300000, guid: 9b890c29297ce0a47b97c88e5e74874d, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &8730101642486233578
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Death_08_{8730101642486233578}
+  m_AudioClip: {fileID: 8300000, guid: 810dc378e83c76046819889aa9e66a1e, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &9133419754324024626
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SFX_Enemy_Death_03_{9133419754324024626}
+  m_AudioClip: {fileID: 8300000, guid: 9f0782ce01c75d4488f1221f290bcf39, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
