@@ -7,7 +7,7 @@ A short, *Time Crisis*-inspired arcade shooting prototype built around peeking f
 **[Play Open Fire on itch.io](https://apexgenesis.itch.io/open-fire)**
 ## My role
 
-**Solo developer - gameplay programming and technical design.** I implemented the player shooting and cover loop, enemy behaviours, configurable encounters, and camera transitions.
+**Solo developer - gameplay programming and technical design.**
 
 ## Technical highlights
 
