@@ -27,7 +27,3 @@ A short, *Time Crisis*-inspired arcade shooting prototype built around peeking f
 ## Project scope
 
 Developed over **four weeks** for a university assignment. My goal was to prototype the core of a classic arcade cover shooter in one short level.
-
-## What this project demonstrates
-
-**C# gameplay programming - Configurable encounter design - Enemy behaviour logic - Player-state coordination - Cinemachine integration**
