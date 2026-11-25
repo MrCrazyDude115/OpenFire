@@ -1,6 +1,6 @@
 # Open Fire
 
-**Unity · C# · Solo university project · 4 weeks**
+**Unity - C# - Solo university project - 4 weeks**
 
 A short, *Time Crisis*-inspired arcade shooting prototype built around peeking from cover, reacting to dangerous enemy shots, and clearing combat arenas. The project contains a single proof-of-concept level, not a full game.
 
@@ -30,6 +30,4 @@ Developed over **four weeks** for a university assignment. My goal was to protot
 
 ## What this project demonstrates
 
-**C# gameplay programming, configurable encounter design, enemy behaviour logic, player-state coordination, Cinemachine integration**
-
-The focus was getting several connected systems—player actions, enemy attacks, wave progression, and camera movement—to work together.
+**C# gameplay programming - Configurable encounter design - Enemy behaviour logic - Player-state coordination - Cinemachine integration**
